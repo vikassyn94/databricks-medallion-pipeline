@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Databricks
+.ipynb_checkpoints/
+
+# Environment files
+.env
+
+# Local secrets
+secrets/
+
+# CSV/Data files
+*.csv
+
+# Logs
+*.log
+
+# Temporary files
+temp/
+tmp/
+
+# Virtual environments
+venv/
+.venv/
