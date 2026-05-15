@@ -153,13 +153,38 @@ The Gold layer generates curated analytical datasets for operational reporting a
 project-root/
 │
 ├── README.md
+│
 ├── requirements.txt
 │
 ├── docs/
+│   ├── pipeline_setup.md
+│   ├── architecture.md
+│   ├── api_ingestion.md
+│   ├── bronze_layer.md
+│   ├── silver_layer.md
+│   ├── gold_layer.md
+│   ├── orchestration.md
+│   ├── monitoring_alerts.md
+│   └── recovery_debugging.md
+│
 ├── assets/
+│   ├── architecture_diagram.png
+│   ├── dashboard_screenshots/
+│   └── orchestration_flow.png
+│
 ├── scripts/
+│   ├── data_generator.py
+│   └── fastapi_service.py
+│
 ├── notebooks/
-├── monitoring/
+|   ├── tables/
+│   ├── api_ingestion/
+│   ├── bronze/
+│   ├── silver/
+│   ├── gold/
+│   ├── orchestration/
+│   └── alerts/
+│   
 └── dashboards/
 ```
 
