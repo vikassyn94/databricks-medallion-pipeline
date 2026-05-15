@@ -42,7 +42,7 @@ Gold Layer
         ↓
 Dashboards & Analytics
 ```
-![Architecture Diagram](assets/architecture_diagram.png)
+<!-- ![Architecture Diagram](assets/architecture_diagram.png) -->
 
 ### Layer Responsibilities
 
