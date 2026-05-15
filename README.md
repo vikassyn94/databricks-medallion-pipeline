@@ -229,9 +229,5 @@ This project provided hands-on exposure to:
 
 ---
 
-## Dashboard Preview
-
-> Dashboard screenshots and workflow images are available in the `assets/` directory.
-
 ## Pipeline Flow
 ![Pipeline Flow](assets/pipeline_flow.png)
